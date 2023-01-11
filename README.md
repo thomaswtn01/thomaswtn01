@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently learning **React JS**
 
+- 👨🏼‍🏫 Portofolio link : https://1e24xh.csb.app/
+
 - 👨‍💻 All of my projects are available at [https://github.com/thomaswtn01](https://github.com/thomaswtn01)
 
 - 💬 Ask me about **C++, Python**
