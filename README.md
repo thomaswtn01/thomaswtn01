@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/thomaswtn" target="blank"><img src="https://img.shields.io/twitter/follow/thomaswtn?logo=twitter&style=for-the-badge" alt="thomaswtn" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **ReactFlow JS**
 
 - 👨🏼‍🏫 Portofolio link : https://thomaswtn01.github.io/
 
