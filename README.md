@@ -4,10 +4,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thomas+WTN+Epitech+Strasbourg+Student"></a>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
 
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomaswtn01&label=Profile%20views&color=0e75b6&style=flat" alt="thomaswtn01" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=thomaswtn01&label=Profile%20views&color=0e75b6&style=flat" alt="thomaswtn01" />  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaswtn01" alt="thomaswtn01" /></a> </p>
 
