@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **ReactFlow JS**
 
-- 👨🏼‍🏫 Portofolio link : portfolio-thomaswtn01s-projects.vercel.app
+- 👨🏼‍🏫 Portofolio link : [Portolio](https://portfolio-thomaswtn01s-projects.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomaswtn01](https://github.com/thomaswtn01)
 
